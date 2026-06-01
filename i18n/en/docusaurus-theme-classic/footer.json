@@ -1,0 +1,26 @@
+{
+  "link.title.adguard_wallet": {
+    "message": "AdGuard Wallet",
+    "description": "The title of the footer links column with title=adguard_wallet in the footer"
+  },
+  "link.title.support": {
+    "message": "Support",
+    "description": "The title of the footer links column with title=support in the footer"
+  },
+  "link.item.label.official_website": {
+    "message": "Official website",
+    "description": "The label of footer link with label=official_website linking to https://adguard-wallet.com"
+  },
+  "link.item.label.support_center": {
+    "message": "Support Center",
+    "description": "The label of footer link with label=support_center linking to https://adguard-wallet.com/support.html"
+  },
+  "copyright": {
+    "message": "© 2009–2026 Adguard Software Ltd.",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "AdGuard Wallet",
+    "description": "The alt text of footer logo"
+  }
+}
