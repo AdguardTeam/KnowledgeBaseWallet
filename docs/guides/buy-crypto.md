@@ -63,5 +63,5 @@ If buy and sell are not available in your country, you will see a notice in the 
 
 - [How to swap tokens](/guides/swap-tokens)
 - [Understanding network fees](/general/network-fees)
-- [What is AdGuard Wallet](/overview/what-is-adguard-wallet)
+- [What is AdGuard Wallet](/)
 - [How to keep your wallet secure](/guides/wallet-security)

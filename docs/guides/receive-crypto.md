@@ -32,10 +32,10 @@ If an asset exists on multiple blockchains (for example, USDT on Ethereum, Polyg
 
 <!-- screenshot: Network selection dialog — USDT network picker (Ethereum / Polygon / Tron) -->
 
-For details on networks supported by AdGuard Wallet, see [What is AdGuard Wallet](/overview/what-is-adguard-wallet).
+For details on networks supported by AdGuard Wallet, see [What is AdGuard Wallet](/).
 
 ## Related articles
 
 - [How to send crypto](/guides/send-crypto)
-- [What is AdGuard Wallet](/overview/what-is-adguard-wallet)
+- [What is AdGuard Wallet](/)
 - [Understanding network fees](/general/network-fees)
