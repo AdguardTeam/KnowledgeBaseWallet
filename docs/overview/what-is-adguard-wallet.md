@@ -1,6 +1,5 @@
 ---
 title: What is AdGuard Wallet
-slug: /
 sidebar_position: 1
 ---
 
