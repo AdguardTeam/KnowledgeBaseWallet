@@ -61,7 +61,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'overview/what-is-adguard-wallet',
+          docId: 'intro',
           position: 'left',
           label: 'docs',
         },
