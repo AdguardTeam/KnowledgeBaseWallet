@@ -90,5 +90,5 @@ Giving an unlimited approval to a malicious or compromised contract can result i
 
 - [What is a seed phrase](/general/seed-phrase)
 - [How to swap tokens](/guides/swap-tokens)
-- [What is AdGuard Wallet](/overview/what-is-adguard-wallet)
+- [What is AdGuard Wallet](/)
 - [How to keep your wallet secure](/guides/wallet-security)

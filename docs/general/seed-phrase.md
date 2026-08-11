@@ -56,7 +56,7 @@ Your seed phrase is the most important piece of information you’ll ever have i
 
 ## Related articles
 
-- [What is AdGuard Wallet](/overview/what-is-adguard-wallet)
+- [What is AdGuard Wallet](/)
 - [How to keep your wallet secure](/guides/wallet-security)
 - [How to create a new wallet](/guides/create-wallet)
 - [How to restore your wallet on a new device](/guides/restore-wallet)

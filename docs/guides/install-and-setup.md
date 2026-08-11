@@ -48,4 +48,4 @@ Biometric authentication is optional but recommended. You can enable or disable 
 - [How to create a new wallet](/guides/create-wallet)
 - [How to import an existing wallet](/guides/import-wallet)
 - [How to keep your wallet secure](/guides/wallet-security)
-- [What is AdGuard Wallet](/overview/what-is-adguard-wallet)
+- [What is AdGuard Wallet](/)

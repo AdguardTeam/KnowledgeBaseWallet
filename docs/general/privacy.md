@@ -45,6 +45,6 @@ For full details, see the [AdGuard Wallet Privacy Policy](https://adguard-wallet
 
 ## Related articles
 
-- [What is AdGuard Wallet](/overview/what-is-adguard-wallet)
+- [What is AdGuard Wallet](/)
 - [How to keep your wallet secure](/guides/wallet-security)
 - [What is a seed phrase](/general/seed-phrase)
