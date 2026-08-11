@@ -9,13 +9,13 @@ To send crypto:
 
 1. Open AdGuard Wallet and go to the *Send* screen.
 <!-- screenshot: Main screen with Send screen highlighted -->
-2. Select the asset you want to send.
+1. Select the asset you want to send.
 <!-- screenshot: Asset choice -->
-3. Enter the recipient’s address. You can type it or paste it.
-4. Enter the amount. Tap *Max* to send your full balance (the network fee will be deducted).
+1. Enter the recipient’s address. You can type it or paste it.
+1. Enter the amount. Tap *Max* to send your full balance (the network fee will be deducted).
 <!-- screenshot: Entering recipient and amount -->
-5. Review the network fee. The fee is charged separately from the amount you send.
-6. Check the details and confirm the transaction with your password or biometrics.
+1. Review the network fee. The fee is charged separately from the amount you send.
+1. Check the details and confirm the transaction with your password or biometrics.
 
 <!-- screenshot: Transaction confirmation — biometric prompt for signing send tx -->
 

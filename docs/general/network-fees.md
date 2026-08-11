@@ -12,7 +12,7 @@ A **network fee** (also called a transaction fee) is a small payment you make to
 Different blockchains calculate fees differently, and the cost can vary significantly:
 
 | Blockchain | Fee model |
-|------------|-----------|
+| ---------- | --------- |
 | Bitcoin | Based on transaction size (sat/vB) |
 | Ethereum and EVM networks | Based on computation complexity (gas) |
 | Solana | Fixed fee per transaction |

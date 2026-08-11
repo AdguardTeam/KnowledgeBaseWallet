@@ -50,8 +50,8 @@ If your transaction stays pending for a long time, the fee may be too low or the
 
 What you can do depends on the network:
 
-* **Ethereum and EVM networks** — you can sometimes speed up a pending transaction by resending it with a higher fee. If that doesn’t work, you may need to wait for it to expire.
-* **Bitcoin and Solana** — pending transactions usually resolve on their own once the congestion clears. There is no built-in way to cancel them.
+- **Ethereum and EVM networks** — you can sometimes speed up a pending transaction by resending it with a higher fee. If that doesn’t work, you may need to wait for it to expire.
+- **Bitcoin and Solana** — pending transactions usually resolve on their own once the congestion clears. There is no built-in way to cancel them.
 
 ## Solana: Send {value} or more to this address (rent exemption)
 

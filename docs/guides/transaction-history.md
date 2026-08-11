@@ -13,12 +13,12 @@ Your transactions are listed in chronological order, with the newest ones first.
 
 Each transaction in the list shows the type and amount. Transactions are grouped by type:
 
-* **Send** — crypto you sent to another address.
-* **Receive** — crypto you received from another address.
-* **Swap** — token swaps you made.
-* **Approve** — token approval transactions.
-* **Revoke** — revoked token approvals.
-* **Self Transfer** — transfers between your own wallets.
+- **Send** — crypto you sent to another address.
+- **Receive** — crypto you received from another address.
+- **Swap** — token swaps you made.
+- **Approve** — token approval transactions.
+- **Revoke** — revoked token approvals.
+- **Self Transfer** — transfers between your own wallets.
 
 New transaction types may be added with app updates.
 
@@ -28,13 +28,13 @@ Tap any transaction to see its full details. Depending on the transaction type, 
 
 <!-- screenshot: Transaction details screen — hash, status, network, amount, fee, date, sender/receiver, View in Explorer button -->
 
-* **Transaction hash** — the unique identifier of the transaction on the blockchain.
-* **Status** — whether the transaction is pending, confirmed, or failed.
-* **Network** — which blockchain the transaction was made on.
-* **Amount** — how much crypto was sent or received.
-* **Network fee** — the fee paid to process the transaction.
-* **Date and time** — when the transaction was made.
-* **Sender and receiver addresses** — who sent and who received the funds.
+- **Transaction hash** — the unique identifier of the transaction on the blockchain.
+- **Status** — whether the transaction is pending, confirmed, or failed.
+- **Network** — which blockchain the transaction was made on.
+- **Amount** — how much crypto was sent or received.
+- **Network fee** — the fee paid to process the transaction.
+- **Date and time** — when the transaction was made.
+- **Sender and receiver addresses** — who sent and who received the funds.
 
 ## Opening a transaction in a block explorer
 
@@ -42,10 +42,10 @@ To see even more details about a transaction, tap *View in explorer*. This opens
 
 Each blockchain has its own block explorer:
 
-* **Ethereum and EVM networks** — [Etherscan](https://etherscan.io) or a network-specific explorer (such as [BscScan](https://bscscan.com) for BNB Chain or [Polygonscan](https://polygonscan.com) for Polygon).
-* **Solana** — [Solscan](https://solscan.io).
-* **Bitcoin** — [Mempool.space](https://mempool.space).
-* **TRON** — [Tronscan](https://tronscan.org).
+- **Ethereum and EVM networks** — [Etherscan](https://etherscan.io) or a network-specific explorer (such as [BscScan](https://bscscan.com) for BNB Chain or [Polygonscan](https://polygonscan.com) for Polygon).
+- **Solana** — [Solscan](https://solscan.io).
+- **Bitcoin** — [Mempool.space](https://mempool.space).
+- **TRON** — [Tronscan](https://tronscan.org).
 
 In the block explorer you can see the number of confirmations, the block the transaction was included in, and any additional details.
 
