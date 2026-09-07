@@ -1,8 +1,10 @@
 ---
-title: What is AdGuard Wallet
+title: Overview
 slug: /
 sidebar_position: 1
 ---
+
+## What is AdGuard Wallet?
 
 AdGuard Wallet is a non-custodial cryptocurrency wallet for storing, sending, receiving, buying, selling, and swapping crypto across multiple blockchains. Being non-custodial means that you are the only person who controls your funds — AdGuard Wallet gives you the tools to access and manage them, but your crypto always stays in your possession.
 
