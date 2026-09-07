@@ -5,7 +5,7 @@ sidebar_position: 3
 
 A **network fee** (also called a transaction fee) is a small payment you make to the blockchain when you send or swap cryptocurrency. On Ethereum and other EVM-compatible networks, it’s commonly called a **gas fee**. This fee goes to the network — not to AdGuard Wallet — and is used to process and confirm your transaction.
 
-![Main screen *mobile](https://cdn.adtidy.org/content/kb/wallet/general/choose_fee.png)
+![Details and fee *mobile](https://cdn.adtidy.org/content/kb/wallet/general/check_details.png)
 
 ## How fees vary by blockchain
 
@@ -20,7 +20,7 @@ Different blockchains calculate fees differently, and the cost can vary signific
 
 Network fees change constantly based on demand. When many people are using the network, fees go up. When traffic is low, fees go down.
 
-<!-- screenshot: Fee speed selector — slow / average / fast options -->
+![Choose fee and speed *mobile](https://cdn.adtidy.org/content/kb/wallet/general/choose_fee.png)
 
 :::note
 
