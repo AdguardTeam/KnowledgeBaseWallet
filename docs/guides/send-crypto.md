@@ -15,7 +15,7 @@ To send crypto:
 1. Enter the amount. Tap *Max* to send your full balance (the network fee will be deducted).
     ![Enter details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/enter_details.png)
 1. Check the details and review the network fee. The fee is charged separately from the amount you send.
-    ![Check details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/check_details.png)
+    ![Check details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/check_your_details.png)
 1. Confirm the transaction with your password or biometrics.
     ![Enter app password *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/enter_app_password.png)
 
