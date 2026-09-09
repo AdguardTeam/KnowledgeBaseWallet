@@ -5,7 +5,7 @@ sidebar_position: 1
 
 AdGuard Wallet is available on Windows, macOS, Android, and iOS. Get AdGuard Wallet from your platform’s app store (Google Play, App Store, Microsoft Store).
 
-## First launch and onboarding
+## First launch
 
 When you open AdGuard Wallet for the first time, you will be guided through the setup. You can choose to create a new wallet or import an existing one.
 
@@ -31,7 +31,7 @@ After setting your password, you can enable biometrics authentication for faster
 - **Android** — Fingerprint
 - **iOS** — Face ID or Touch ID
 
-Every transaction will require authentication, adding an extra layer of security.
+Biometric authentication adds an extra layer of security when you access your wallet and confirm transactions.
 
 :::note
 
