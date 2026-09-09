@@ -21,8 +21,6 @@ To receive crypto:
 
 You can also copy your address to the clipboard, share it through other apps, or download the QR code as an image.
 
-<!-- screenshot: Share options — copy address, share via other apps, download QR code -->
-
 :::warning
 
 Always confirm the correct network with the sender. On EVM networks (Ethereum, BSC, Polygon, etc.) and Solana, the same address can receive different assets — but if the sender selects the wrong network, the funds may be lost.
@@ -32,8 +30,6 @@ Always confirm the correct network with the sender. On EVM networks (Ethereum, B
 ## Network selection
 
 If an asset exists on multiple blockchains (for example, USDT on Ethereum, Polygon, and Tron), you need to select which network to use. Make sure the sender selects the same network — otherwise, the assets will be lost.
-
-<!-- screenshot: Network selection dialog — USDT network picker (Ethereum / Polygon / Tron) -->
 
 For details on networks supported by AdGuard Wallet, see [What is AdGuard Wallet](/).
 
