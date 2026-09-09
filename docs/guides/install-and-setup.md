@@ -3,21 +3,17 @@ title: How to install and set up AdGuard Wallet
 sidebar_position: 1
 ---
 
-AdGuard Wallet is available on Windows, macOS, Android, and iOS.
-
-## How to get the app
-
-Get AdGuard Wallet from your platform’s app store (Google Play, App Store, Microsoft Store).
+AdGuard Wallet is available on Windows, macOS, Android, and iOS. Get AdGuard Wallet from your platform’s app store (Google Play, App Store, Microsoft Store).
 
 ## First launch and onboarding
 
-<!-- screenshot: First launch — onboarding screen with Create wallet / Import wallet options -->
-
 When you open AdGuard Wallet for the first time, you will be guided through the setup. You can choose to create a new wallet or import an existing one.
 
-## Setting a password
+![Onboarding *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/onboarding.png)
 
-You will be asked to create a strong password. This password protects access to your seed phrase on your device.
+You will be asked to create a strong password. This password protects access to your app and is used to confirm transactions.
+
+![Password *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/create_password.png)
 
 :::tip
 
@@ -27,9 +23,9 @@ Use a unique password that you don’t use for other services.
 
 ## Enabling biometric authentication
 
-After setting your password, you can enable biometric authentication for faster and more secure access:
+After setting your password, you can enable biometrics authentication for faster and more secure access.
 
-<!-- screenshot: Biometric setup — enable fingerprint / Face ID toggle -->
+![Biometrics *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/biometrics.png)
 
 - **macOS** — Touch ID
 - **Android** — Fingerprint
