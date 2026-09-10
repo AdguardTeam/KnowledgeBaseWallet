@@ -9,11 +9,11 @@ AdGuard Wallet gives you several security features to keep your funds safe. This
 
 When you create a wallet, you set an app password. This password protects your seed phrase on your device and is required — together with your password or biometrics — to confirm every transaction.
 
-<!-- screenshot: Create password screen — password entry with confirmation fields -->
+![Password *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/password.png)
 
 If you forget your password, AdGuard Wallet cannot recover it. The app does not store your password. You can reset the app, but this removes all wallets. After resetting, you can restore your wallets using your seed phrase or cloud backup.
 
-<!-- screenshot: Forgot password dialog — explaining reset process -->
+![Forgot password *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/forgot_password.png)
 
 The app locks itself when not in use. To unlock it, enter your app password.
 
@@ -33,7 +33,7 @@ For faster and more secure access, you can enable biometric authentication:
 
 Biometrics can be used to unlock the app and confirm transactions.
 
-<!-- screenshot: Enable biometrics dialog — prompt with face/fingerprint icon -->
+![Enable biometrics *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/enable_biometrics.png)
 
 ## Seed phrase security
 
@@ -43,10 +43,10 @@ Here’s how to protect it:
 
 - **Write it down on paper** and store it in a safe place, such as a fireproof safe or a safety deposit box. Paper is not vulnerable to hackers.
 - **Store a backup in iCloud or Google Drive** with a strong password (more on that below).
+    ![Store seed phrase *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/store_seed_phrase.png)
 - **Don’t take screenshots of your seed phrase or password** — if a malicious app gains access to your photos, it could find them.
+    ![Screenshots *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/screenshots.png)
 - **Never share your seed phrase with anyone** — AdGuard Wallet support will never ask for it. If someone asks, even if they claim to be support, they are trying to steal your funds.
-
-<!-- screenshot: Seed phrase display — with warning and backup options -->
 
 ## Backing up your wallet
 
@@ -66,8 +66,6 @@ Scammers target cryptocurrency users in many ways. Here are the most important p
 
 - **Double-check the recipient address** before sending crypto. Scammers may try to trick you into sending to the wrong address.
 - **Only get AdGuard Wallet from your platform’s app store.**
-
-<!-- screenshot: Scam warning — “Never enter an unfamiliar seed phrase” alert -->
 
 ## What to do if your wallet is compromised
 
