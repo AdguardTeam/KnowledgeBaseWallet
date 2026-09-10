@@ -23,6 +23,8 @@ You have the option to help us improve AdGuard Wallet by sharing **anonymized te
 - **Telemetry** — anonymized usage data that helps us understand how the app is used
 - **Error reports** — technical information when something goes wrong, so we can fix it
 
+![App usage data *mobile](https://cdn.adtidy.org/content/kb/wallet/general/app_usage_data.png)
+
 If you choose to enable this, the data is sent using **OHTTP (Oblivious HTTP)** — a privacy protocol that ensures no single party can see both who sent the data and what was sent.
 
 :::note
