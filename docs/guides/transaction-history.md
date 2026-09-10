@@ -5,7 +5,7 @@ sidebar_position: 10
 
 Open AdGuard Wallet and tap the *History* tab to see all your past transactions: sends, receives, swaps, and approvals. You can open any transaction for details or view it in a block explorer.
 
-<!-- screenshot: History screen — transaction list with types (Send, Receive, Swap, Approve) -->
+![History *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/history.png)
 
 Your transactions are listed in chronological order, with the newest ones first. Pending transactions are updated automatically.
 
@@ -26,7 +26,7 @@ New transaction types may be added with app updates.
 
 Tap any transaction to see its full details. Depending on the transaction type, you may see:
 
-<!-- screenshot: Transaction details screen — hash, status, network, amount, fee, date, sender/receiver, View in Explorer button -->
+![Transaction details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/transaction_details.png)
 
 - **Transaction hash** — the unique identifier of the transaction on the blockchain.
 - **Status** — whether the transaction is pending, confirmed, or failed.
@@ -49,8 +49,6 @@ Each blockchain has its own block explorer:
 
 In the block explorer you can see the number of confirmations, the block the transaction was included in, and any additional details.
 
-<!-- screenshot: Etherscan explorer page — transaction details with confirmations, block, and timestamp -->
-
 ## Verifying transactions
 
 You can use the transaction history to check whether a transaction went through. Open the transaction, then tap *View in explorer* to see its final status on the blockchain. The explorer confirms whether the transaction was processed, how many confirmations it has, and when it happened.
@@ -61,13 +59,13 @@ If you need to share proof of a transaction with someone, you can send them the 
 
 The app loads a limited number of recent transactions. If you need to see older transactions, a banner at the bottom of the list offers a link to the block explorer where all your transactions are available.
 
-<!-- screenshot: History list with load limit banner — “View full history on explorer” at bottom -->
-
 :::note
 
 If a transaction does not appear in the list or fails to load its details, try refreshing the history or checking the block explorer directly.
 
 :::
+
+![Check explorer *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/check_explorer.png)
 
 ## Related articles
 
