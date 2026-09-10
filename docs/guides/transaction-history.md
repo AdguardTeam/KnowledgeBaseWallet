@@ -26,7 +26,7 @@ New transaction types may be added with app updates.
 
 Tap any transaction to see its full details. Depending on the transaction type, you may see:
 
-![Transaction details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/transaction_details.png)
+![Transaction details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/transaction.png)
 
 - **Transaction hash** — the unique identifier of the transaction on the blockchain.
 - **Status** — whether the transaction is pending, confirmed, or failed.
