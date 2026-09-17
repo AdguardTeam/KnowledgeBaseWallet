@@ -30,9 +30,7 @@ Be careful with unfamiliar seed phrases. Some scammers create a wallet, give awa
 ## Import from iCloud or Google Drive
 
 1. Open AdGuard Wallet and tap *I have a wallet*.
-    ![Onboarding *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/onboarding.png)
 1. Select *Import from iCloud* or *Import from Google Drive*.
-    ![Import method *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/import_method.png)
 1. Select the wallet you want to import from the list of your cloud backups.
     ![Backups *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/wallet_backups.png)
 1. Enter the password you set when creating the backup.
