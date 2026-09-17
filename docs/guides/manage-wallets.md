@@ -7,7 +7,7 @@ AdGuard Wallet lets you create and manage multiple wallets. You can switch betwe
 
 To add a wallet:
 
-1. Tap on your wallet name on the main screen.
+1. Tap your wallet name on the main screen.
 1. Tap *Add wallet*.
     ![Add wallet *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/adding_wallet.png)
 1. Choose to create a new wallet or import an existing one.
