@@ -37,7 +37,7 @@ Depending on your country and the provider, you may need to complete a KYC (iden
 1. After choosing the provider, you will be redirected to the provider’s page in your browser. Follow the provider’s instructions to complete the sale. You may need to verify your identity (KYC).
     ![Provider for sale chosen *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/provider_for_sale_chosen.png)
 1. Follow the provider’s instructions to send your crypto and receive fiat. After the transaction is completed, you will be redirected back to the app.
-    ![Crypto sold  *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/crypto_purchased.png)
+    ![Crypto sold  *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/crypto_sold.png)
 
 :::note
 
