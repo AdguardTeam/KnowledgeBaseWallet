@@ -23,13 +23,13 @@ Use a unique password that you don’t use for other services.
 
 ## Enabling biometric authentication
 
-After setting your password, you can enable biometrics authentication for faster and more secure access.
-
-![Biometrics *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/biometrics.png)
+After setting your password, you can enable biometric authentication for faster and more secure access:
 
 - **macOS** — Touch ID
 - **Android** — Fingerprint
 - **iOS** — Face ID or Touch ID
+
+![Biometrics *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/biometrics.png)
 
 Biometric authentication adds an extra layer of security when you access your wallet and confirm transactions.
 
