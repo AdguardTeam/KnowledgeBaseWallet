@@ -7,8 +7,6 @@ A **token approval** (also called an allowance) is a permission you give to an a
 
 Think of it like a pre-authorized payment: you tell the contract “you can take up to X tokens from my wallet if needed.” The contract can’t take more than you allowed, and you can change or revoke this permission at any time.
 
-<!-- screenshot: Approve transaction screen — showing token, spender address, and allowance amount -->
-
 ## When you need to approve
 
 The most common scenario is **swapping tokens**. When you swap Token A for Token B on a DEX, the exchange needs to take Token A from your wallet and send it to the swap contract. The approve transaction gives it that permission.
@@ -35,7 +33,7 @@ When you start a swap or other operation that requires approval, AdGuard Wallet 
 1. **Set the allowance** — you can approve only the amount you need for this transaction, or a larger amount if you plan to swap again.
 1. **Confirm with biometrics or password** — the approve transaction is signed and sent to the blockchain.
 
-<!-- screenshot: Approve confirmation — biometric prompt for signing approve tx -->
+![Token approval *mobile](https://cdn.adtidy.org/content/kb/wallet/general/approval.png)
 
 :::tip
 
@@ -55,7 +53,7 @@ To revoke an approval:
 1. Tap *Revoke approval*.
 1. Confirm the transaction.
 
-<!-- screenshot: Revoke approval button on transaction details screen -->
+![Revoke approval *mobile](https://cdn.adtidy.org/content/kb/wallet/general/revoke_approval.png)
 
 If the allowance has already been used or revoked, the button won’t appear — only *View in Explorer* will be shown.
 

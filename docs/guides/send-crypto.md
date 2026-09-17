@@ -8,20 +8,19 @@ Sending crypto from AdGuard Wallet is straightforward. Before you send, check th
 To send crypto:
 
 1. Open AdGuard Wallet and go to the *Send* screen.
-<!-- screenshot: Main screen with Send screen highlighted -->
+    ![Send *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/send.png)
 1. Select the asset you want to send.
-<!-- screenshot: Asset choice -->
+    ![Select currency *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/select_currency.png)
 1. Enter the recipient’s address. You can type it or paste it.
 1. Enter the amount. Tap *Max* to send your full balance (the network fee will be deducted).
-<!-- screenshot: Entering recipient and amount -->
-1. Review the network fee. The fee is charged separately from the amount you send.
-1. Check the details and confirm the transaction with your password or biometrics.
-
-<!-- screenshot: Transaction confirmation — biometric prompt for signing send tx -->
+    ![Enter details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/enter_details.png)
+1. Check the details and review the network fee. The fee is charged separately from the amount you send.
+    ![Check details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/check_your_details.png)
+1. Confirm the transaction with your password or biometrics.
+    ![Enter app password *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/enter_app_password.png)
 
 After the transaction is sent, you can track its status in the transaction history.
-
-<!-- screenshot: Send success — transaction sent confirmation with View in Explorer link -->
+    ![Crypto sent *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/crypto_sent.png)
 
 :::tip
 
@@ -32,6 +31,7 @@ When sending your full balance with *Max*, the network fee is deducted automatic
 ## Network fees
 
 The network fee goes to the blockchain network, not to AdGuard Wallet. The fee varies based on network demand and transaction complexity. You’ll see the fee before confirming.
+    ![Choose network fee *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/choose_network_fee.png)
 
 If you don’t have enough balance to cover the fee, the app will show a warning. Try lowering the amount or choose a different fee speed.
 
@@ -47,8 +47,6 @@ Sending on Ethereum and EVM-compatible networks (such as BSC, Polygon, Arbitrum,
 
 Bitcoin uses a UTXO (unspent transaction output) model. Fees are based on transaction size in bytes, not the amount being sent. AdGuard Wallet supports multiple Bitcoin address formats: Legacy, Nested SegWit, and Native SegWit.
 
-<!-- screenshot: Bitcoin fee selector — sat/vB slider with slow/avg/fast options -->
-
 ### Solana
 
 Solana requires a special account for each token type. The first time you send a token to a new address, a one-time setup fee applies. There is also a minimum amount you must send (rent exemption) — sending less will fail.
@@ -61,7 +59,7 @@ Tron uses bandwidth and energy for transaction fees. If you have staked TRX, you
 
 Some networks require a **memo** or tag to identify your transaction. If the recipient asks for a memo, you can add it when sending.
 
-<!-- screenshot: Memo input field on send screen — with description tooltip -->
+![Memo *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/memo.png)
 
 :::warning
 
