@@ -5,6 +5,20 @@ sidebar_position: 0
 
 If you’ve run into an issue, check the list below. Each section starts with the error message you might see in the app.
 
+- [This doesn’t look like a wallet address](#this-doesnt-look-like-a-wallet-address)
+- [This address is on a different network](#this-address-is-on-a-different-network)
+- [Not enough balance](#not-enough-balance)
+- [Failed to send crypto or transaction failed](#failed-to-send-crypto-or-transaction-failed)
+- [Transaction stuck pending](#transaction-stuck-pending)
+- [Solana: Send `{value}` or more to this address (rent exemption)](#solana-send-value-or-more-to-this-address-rent-exemption)
+- [Solana: extra fee for new token accounts](#solana-extra-fee-for-new-token-accounts)
+- [Memo (tag) missing](#memo-tag-missing)
+- [Swap failed or returned less than expected](#swap-failed-or-returned-less-than-expected)
+- [Balance not updating](#balance-not-updating)
+- [Network unavailable or Failed to load data](#network-unavailable-or-failed-to-load-data)
+- [App crashes or freezes](#app-crashes-or-freezes)
+- [Tokens missing after import or restore](#tokens-missing-after-import-or-restore)
+
 ## This doesn’t look like a wallet address
 
 The address you entered doesn’t match the expected format. Double-check that you copied it correctly — addresses are case-sensitive on some networks.
