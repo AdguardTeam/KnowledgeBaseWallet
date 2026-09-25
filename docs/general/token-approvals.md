@@ -53,7 +53,7 @@ To revoke an approval:
 1. Tap *Revoke approval*.
 1. Confirm the transaction.
 
-![Revoke approval *mobile](https://cdn.adtidy.org/content/kb/wallet/general/revoke_approval.png)
+![Revoke approval *mobile](https://cdn.adtidy.org/content/kb/wallet/general/approval_revoke.png)
 
 If the allowance has already been used or revoked, the button won’t appear — only *View in Explorer* will be shown.
 
