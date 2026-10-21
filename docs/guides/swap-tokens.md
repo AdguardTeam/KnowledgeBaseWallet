@@ -3,21 +3,19 @@ title: How to swap tokens
 sidebar_position: 7
 ---
 
-You can swap cryptocurrencies directly in AdGuard Wallet.
-
-To swap tokens:
+You can swap cryptocurrencies directly in AdGuard Wallet. To swap tokens:
 
 1. Open AdGuard Wallet and go to the *Swap* screen.
+    ![Swap *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/swap.png)
 1. Select the pair — choose which token you want to send and which token you want to receive.
+    ![Swap pair *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/swap_from_to.png)
 1. Enter the amount you want to swap.
 1. The app shows the exchange rate, fees, and estimated time. For large swaps, a high price impact warning may appear — this means the swap could affect the market price.
+    ![Swap details *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/swap_details.png)
 1. If the token requires approval (for ERC-20 tokens), tap *Approve* first. You may need to approve again if the swap amount exceeds your previous allowance.
-
-<!-- screenshot: Swap screen — pair selection, amount input, exchange rate, fees, and Approve button -->
-
+    ![Swap approval *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/approve_access.png)
 1. Tap *Swap now* and confirm the transaction.
-
-<!-- screenshot: Swap confirmation — biometric prompt for swap signing -->
+    ![Swap underway *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/swap_success.png)
 
 After the swap is sent, you can track its status in the transaction history.
 

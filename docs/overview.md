@@ -8,7 +8,7 @@ sidebar_position: 1
 
 AdGuard Wallet is a non-custodial cryptocurrency wallet for storing, sending, receiving, buying, selling, and swapping crypto across multiple blockchains. Being non-custodial means that you are the only person who controls your funds — AdGuard Wallet gives you the tools to access and manage them, but your crypto always stays in your possession.
 
-<!-- screenshot: Main wallet screen with balance and asset list -->
+![Main screen *mobile](https://cdn.adtidy.org/content/kb/wallet/overview/main_screen.png)
 
 Your wallet is created and stored entirely on your device. The app connects to blockchain nodes and third-party data providers to display balances and transaction history. Your assets remain on the blockchain, not in the app, so you stay in full control at all times. Your seed phrase — a unique key generated and encrypted locally on your device — is what you need to recover access to your wallet if you lose your device or move to a new one.
 
@@ -21,8 +21,6 @@ Because the wallet is non-custodial, only you can access your funds. If you lose
 ## Supported platforms
 
 AdGuard Wallet is available on Windows, macOS, Android, and iOS.
-
-<!-- screenshot: Supported platforms — App Store / Google Play / download page badges -->
 
 ## Supported blockchains and assets
 
@@ -45,7 +43,6 @@ New blockchains are added with app updates.
 - **Crypto purchases** — with credit card, Apple Pay, Google Pay, and bank transfer options
 - **Privacy protection** — no KYC or personal data collection required to use the wallet. If you buy crypto through third-party providers, their KYC requirements apply
 - **Transaction security** — password or biometric authentication for every transaction
-<!-- screenshot: Biometric authentication prompt on transaction confirm -->
 
 AdGuard Wallet does not charge fees for sending or receiving crypto. You only pay the network fee required by each blockchain.
 

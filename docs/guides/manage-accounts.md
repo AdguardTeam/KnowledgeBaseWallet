@@ -19,7 +19,7 @@ When you import a wallet using a seed phrase, AdGuard Wallet scans the blockchai
 
 For detailed steps, see [How to import an existing wallet](/guides/import-wallet).
 
-<!-- screenshot: Account discovery screen — list of found accounts with checkboxes to select -->
+![Accounts found *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/accounts_found.png)
 
 ## Switching between accounts
 
@@ -31,16 +31,18 @@ If a wallet has more than one account, you can switch between them:
 
 If you only have one account, the switcher is not shown.
 
-<!-- screenshot: Account switcher — account name with chevron in header and dropdown list -->
+![Choose account *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/choose_account.png)
 
 ## Adding a new account
 
 1. Go to the *Wallets* screen.
 1. Select the wallet where you want to add an account.
 1. Tap *Add account*. A new account will be created and added to your wallet.
-<!-- screenshot: Add account -->
+    ![Add account *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/add_account.png)
 
 You can give the new account a custom name right after creating it.
+
+![Name account *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/name_account.png)
 
 ## Renaming an account
 
@@ -50,17 +52,19 @@ You can give the new account a custom name right after creating it.
 
 Account names are only visible to you.
 
-<!-- screenshot: Rename account screen — text input with current name -->
+![Rename account *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/rename_account.png)
 
-## Deleting an account
+## Removing an account
 
 1. Go to the wallet that contains the account.
-1. Open the account settings and tap *Delete account*.
+1. Open the account settings and tap *Remove account*.
 1. Confirm the deletion.
+
+![Remove account *mobile](https://cdn.adtidy.org/content/kb/wallet/guides/remove_account.png)
 
 :::warning
 
-The first account (Account 0) cannot be deleted. Deleting an account is permanent — make sure you have a backup of your seed phrase before deleting any account.
+The first account (Account 0) cannot be removed. Removing an account is permanent — make sure you have a backup of your seed phrase before removing any account.
 
 :::
 
