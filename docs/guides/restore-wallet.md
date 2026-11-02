@@ -5,23 +5,13 @@ sidebar_position: 4
 
 If you lost your device, reinstalled the app, or switched to a new device, you can restore your wallet using your seed phrase or a cloud backup. Your crypto assets are stored on blockchains, not in the app — so you can access them from any compatible wallet by entering your seed phrase.
 
-:::warning
-
-If you didn’t back up your seed phrase, you won’t be able to restore your wallet or move it to a different app.
-
-:::
-
-## How to restore
-
 Restoring a wallet uses the same process as importing one. See [How to import an existing wallet](/guides/import-wallet) for detailed steps.
 
-<!-- screenshot: Restore wallet option on first launch — Import wallet / Cloud restore selection -->
+:::warning
 
-You can restore using:
+If you don’t have your seed phrase or an available cloud backup, you won’t be able to restore your wallet. Cloud backups can be used to restore your wallet in AdGuard Wallet, but moving it to another app requires the seed phrase.
 
-- Your **seed phrase** — enter the 12, 18, or 24 words you wrote down
-- **iCloud backup** — if you previously backed up to iCloud
-- **Google Drive backup** — if you previously backed up to Google Drive
+:::
 
 ## What if you forgot your password
 
